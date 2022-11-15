@@ -1,0 +1,35 @@
+_repo: Langs-den-Nijl-Herinneringen-eener-reis-in-Egypte-De-Aarde-en-haar-volken-1868_69183
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Anonymous
+    aliases:
+    - Anonyme
+    - Anonymous, Anonymous
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Anonymous_work
+    - http://www.gutenberg.org/ebooks/author/49
+description: ''
+gutenberg_issued: '2022-10-19'
+identifiers:
+  gutenberg: '69183'
+language: nl
+pgterms:marc905: 20041227125052various
+pgterms:marc906: '1873'
+pgterms:marc907: nl
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: 'Netherlands: H.D. Tjeenk Willink,1873.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- Description and travel'
+- !lcsh 'Nile River Valley -- Description and travel'
+- !lcc 'DT'
+- GITenberg
+title: "Langs den Nijl: Herinneringen eener reis in Egypte\r\nDe Aarde en haar volken,\
+  \ 1868"
+url: http://www.gutenberg.org/ebooks/69183
